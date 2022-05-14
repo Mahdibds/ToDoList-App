@@ -1,1 +1,2 @@
-find . -size +100M | sed -e 's/^\.\///' >> .gitignore
+*.vs
+*Todo
