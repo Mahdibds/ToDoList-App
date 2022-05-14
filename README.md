@@ -2,7 +2,7 @@
 Developed by Mahdibds
 
 ## Description 
-This is a Demo app created using .NET and AvaloniaUI framework. It is a ToDoList App in which the user 
+This is a Demo app created using .NET and AvaloniaUI framework. It is a ToDoList App in which the user can enter a reminder list. 
 
 ## Original Developer:
 Mehdi Boudabous 
@@ -13,4 +13,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License 
-[MIT]
+[MIT] 
